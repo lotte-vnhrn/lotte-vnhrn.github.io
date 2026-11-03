@@ -45,8 +45,19 @@ body {
 }
 
 .card-text {
-  font-size: 85%;
+  font-size: 110%;
 }
+
+.jumbotron-heading {
+  font-size: 250%;
+}
+
+.lead {
+  font-size: 150%;
+}
+
+/*<h1 class="jumbotron-heading">Portfolio</h1>
+<p class="lead text-muted">Lotte Vanhoorne</p> */
 
 footer {
   padding-top: 3rem;
